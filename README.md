@@ -14,7 +14,7 @@ Pasos de algoritmo para determinar los numeros primos hasta un número n
 
 Se crearon dos funciones, en la primera defini si era primo, y en la segunda cree la lista de numero que fueran verdaderos para la primera función
 >Codigo VScode lista de numeros primos hasta un número n :)
->![image](https://github.com/user-attachments/assets/c528433a-fd96-427a-b1e5-f24559d896b5)
+>![image](https://github.com/user-attachments/assets/62daa392-64d0-4191-9ebf-a70f81fa6372)
 
 <resultado en el terminal
 >>![image](https://github.com/user-attachments/assets/34efd341-1780-437c-a5b1-e2f25279d63c)
