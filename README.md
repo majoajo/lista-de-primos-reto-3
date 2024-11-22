@@ -6,6 +6,7 @@ Pasos de algoritmo para determinar los numeros primos hasta un número n
 >
 >3) Crear una nueva lista
 >   >Descartar si el residuo de la divison de x entre el rango de divisores seleccionados ≠0
+>   >
 >   >Imprimir si el residuo de la division de x entre el rango de divisores seleccionados es = 0
 >   
 > Fin
